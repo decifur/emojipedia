@@ -30,7 +30,7 @@ const emojipedia = [
     name: "Astonished Face",
     meaning:
       "That's incredible, I had no idea! Astonished face with wide open mouth and eyes: overwhelmed with surprise, completely shocked or sheer incredulity. Can hardly believe what just happened!"
-  }
+  },
   {
     id: 5,
     emoji:
@@ -38,6 +38,14 @@ const emojipedia = [
     name: "Fearful Face",
     meaning:
       "Scared smiley is frightened and stunned. Seems to be deeply shocked and surprised by an ominous event or intense experience."
+  },
+  {
+    id: 6,
+    emoji:
+      "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png",
+    name: "Face with spiral eyes",
+    meaning:
+      "The mouth is open, the eyes are spirals. The emoji has circulatory problems and is dizzy. Something or someone has cast a spell over us, we are hypnotized. There may be disorientation, e.g. in a foreign city or in a department store."
   }
 ];
 
